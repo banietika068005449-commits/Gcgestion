@@ -1,0 +1,5 @@
+{
+  "name": "cgEtudiant",
+  "description": "Une application PWA ultra-moderne pour les étudiants, incluant profil, notes, annonces et chat de classe.",
+  "requestFramePermissions": []
+}
